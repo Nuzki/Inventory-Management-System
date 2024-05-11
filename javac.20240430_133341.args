@@ -1,0 +1,18 @@
+-d
+"C:\\Users\\nuzki\\OneDrive\\Desktop\\Inventory Management System\\build\\classes"
+-classpath
+"C:\\Users\\nuzki\\OneDrive\\Desktop\\Inventory Management System\\build\\classes;C:\\Program Files\\NetBeans-20\\netbeans\\java\\modules\\ext\\AbsoluteLayout.jar;C:\\Users\\nuzki\\OneDrive\\Desktop\\KADSE231F-034\\Enterprise Application System ( Java )\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar"
+-sourcepath
+"C:\\Users\\nuzki\\OneDrive\\Desktop\\Inventory Management System\\src"
+-target
+20
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Program Files\\NetBeans-20\\netbeans\\java\\modules\\ext\\AbsoluteLayout.jar;C:\\Users\\nuzki\\OneDrive\\Desktop\\KADSE231F-034\\Enterprise Application System ( Java )\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar;C:\\Users\\fazee\\Downloads\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar;C:\\Users\\nuzki\\OneDrive\\Desktop\\Inventory Management System\\build\\empty"
+-s
+"C:\\Users\\nuzki\\OneDrive\\Desktop\\Inventory Management System\\build\\generated-sources\\ap-source-output"
+-source
+20
+"C:\\Users\\nuzki\\OneDrive\\Desktop\\Inventory Management System\\src\\Home.java"

@@ -1,0 +1,9 @@
+AbsoluteLayout.jar
+activation.jar
+itext.jar
+javax.mail.jar
+jcalendar.jar
+jcommon.jar
+jfreechar.jar
+mysql-connector-java.jar
+rs2xml.jar
